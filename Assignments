@@ -14,3 +14,7 @@ Assignment-4
 -------------
 Hit the fakestore API endpoint, using React Class based https://fakestoreapi.com/products and show the image, title and price for each item on the screen
 
+Assignment-5
+-------------
+Hit the fakestore API endpoint, using React Hook based https://fakestoreapi.com/products and show the image, title and price for each item on the screen
+
