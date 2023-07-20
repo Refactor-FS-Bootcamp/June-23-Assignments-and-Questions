@@ -21,3 +21,7 @@ Hit the fakestore API endpoint, using React Hook based https://fakestoreapi.com/
 Assignment-6
 -------------
 In the contact app for React router, take the image url also from the user. And use that image url to show an image in ContactDetail component.
+
+Assignment-7
+-------------
+Create a Whatsapp Clone with Firebase by referring this YouTube video - https://youtu.be/Frx4OqNoj88
