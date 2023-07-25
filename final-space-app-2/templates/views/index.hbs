@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="main-content">
+        {{>header}}
+        <p>This site gets various data from Fake API Store</p>
+        <form>
+            <input type="number" placeholder="Product ID">
+            <button>Search</button>
+        </form>
+        <h3 id="msg">Enter Any Product ID from 1 to 20</h3>
+        <div id="card" class="card"></div>
+        {{>footer}}
+    </div>
+    <script src="/js/main.js"></script>
+</body>
+</html>
